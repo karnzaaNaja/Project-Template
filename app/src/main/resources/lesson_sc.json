@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "type":"science",
+      "name":"กลศาสตร์",
+      "image":"http://www.scimath.org/images/stories/flexicontent/item_6823_field_24/m_13-5-2560-12-35-44.jpg",
+      "price":"0",
+      "vdo":"",
+      "pdf":"",
+      "detail":""
+    },
+    {
+      "type":"science",
+      "name":"แรง",
+      "image":"http://www.chulabook.com/images/book-400/9786163618801.jpg",
+      "price":"0",
+      "vdo":"",
+      "pdf":"",
+      "detail":""
+    },
+    {
+      "type":"science",
+      "name":"ไฟฟ้า1",
+      "image":"http://www.tpa.or.th/tpapublishing/administrator/displaypics.php?picsid=518&tblname=tblbook&idN=bId&var1=bCImgType&var2=bCImgData",
+      "price":"0",
+      "vdo":"",
+      "pdf":"",
+      "detail":""
+    },
+    {
+      "type":"science",
+      "name":"ไฟฟ้า2",
+      "image":"http://www.chulabook.com/images/book-400/9789740333470.jpg",
+      "price":"0",
+      "vdo":"",
+      "pdf":"",
+      "detail":""
+    }
+  ]
+}
+
+
+

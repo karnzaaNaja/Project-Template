@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    tools:context=".fragment.home.FeedHomeFragment">
+
+    <RelativeLayout
+        android:background="#f5efef"
+        android:layout_width="match_parent"
+        android:layout_height="150dp">
+
+        <ImageView
+            android:id="@+id/im_user_customer"
+            android:src="@drawable/user"
+            android:layout_marginTop="15dp"
+            android:layout_marginStart="6dp"
+            android:layout_width="60dp"
+            android:layout_height="70dp" />
+
+        <TextView
+            android:layout_marginTop="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="20dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginStart="90dp"
+            android:text="Nawakarn" />
+
+        <TextView
+            android:layout_marginTop="40dp"
+            android:layout_width="wrap_content"
+            android:layout_height="20dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginStart="90dp"
+            android:text="ครูสอน" />
+
+        <TextView
+            android:id="@+id/non"
+            android:layout_marginTop="70dp"
+            android:layout_width="wrap_content"
+            android:layout_height="20dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginStart="90dp"
+            android:text="611" />
+
+        <com.example.msi_gl62.simpelapp.font.FontAwesomeTextView
+            android:layout_width="wrap_content"
+            android:layout_height="20dp"
+            android:layout_alignParentStart="true"
+            android:layout_marginTop="70dp"
+            android:textColor="#e7a516"
+            android:layout_marginStart="120dp"
+            android:text="&#xf0f3;" />
+
+        <TextView
+            android:layout_marginTop="70dp"
+            android:layout_width="wrap_content"
+            android:layout_height="20dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginStart="150dp"
+            android:text="611" />
+
+        <com.example.msi_gl62.simpelapp.font.FontAwesomeTextView
+            android:layout_width="wrap_content"
+            android:layout_height="20dp"
+            android:layout_alignParentStart="true"
+            android:layout_marginTop="70dp"
+            android:textColor="#aa2c2c"
+            android:layout_marginStart="175dp"
+            android:text="&#xf075;" />
+
+     <View
+         android:id="@+id/view_model"
+         android:layout_centerHorizontal="true"
+         android:layout_marginTop="10dp"
+         android:layout_below="@+id/non"
+         android:background="#b5adad"
+         android:layout_width="250dp"
+         android:layout_height="1dp"/>
+
+        <TextView
+            android:id="@+id/conver"
+            android:layout_marginTop="10dp"
+            android:layout_width="30dp"
+            android:layout_height="40dp"
+            android:layout_alignEnd="@+id/im_user_customer"
+            android:layout_alignTop="@+id/view_model"
+            android:text="test" />
+
+        <TextView
+            android:layout_width="30dp"
+            android:layout_height="40dp"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:text="test" />
+
+
+
+    </RelativeLayout>
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/list_teacher"
+        android:layout_width="match_parent"
+        android:layout_height="370dp"
+        android:layout_marginTop="20dp">
+    </android.support.v7.widget.RecyclerView>
+
+</LinearLayout>
+</ScrollView>

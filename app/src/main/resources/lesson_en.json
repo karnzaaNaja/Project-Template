@@ -1,0 +1,43 @@
+{
+  "data": [
+    {
+      "type":"science",
+      "name":"ภาษาอังกฤษ1",
+      "image":"https://images-se-ed.com/ws/Storage/Originals/978616/527/9786165273749L.jpg?h=83766cdbc5c00d83359956efb1b2d35b",
+      "price":"0",
+      "vdo":"",
+      "pdf":"",
+      "detail":""
+    },
+    {
+      "type":"science",
+      "name":"การฟัง",
+      "image":"http://thebooks.co.th/wp-content/uploads/2015/10/D56.jpg",
+      "price":"0",
+      "vdo":"",
+      "pdf":"",
+      "detail":""
+    },
+    {
+      "type":"science",
+      "name":"การอ่าน",
+      "image":"https://asset.mebmarket.com/meb/server1/15402/Thumbnail/large.gif?3",
+      "price":"0",
+      "vdo":"",
+      "pdf":"",
+      "detail":""
+    },
+    {
+      "type":"science",
+      "name":"การเขียน",
+      "image":"http://fb1-e.lnwfile.com/9augog.jpg",
+      "price":"0",
+      "vdo":"",
+      "pdf":"",
+      "detail":""
+    }
+  ]
+}
+
+
+

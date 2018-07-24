@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "252216066242",
+    "firebase_url": "https://apidev-87b5b.firebaseio.com",
+    "project_id": "apidev-87b5b",
+    "storage_bucket": "apidev-87b5b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:252216066242:android:9d80de3e726bf756",
+        "android_client_info": {
+          "package_name": "com.example.msi_gl62.simpelapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "252216066242-3tha8davj6qptfgjv6909vr6fealorge.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLpmFbe9tXMRbuNv8XpiTUeZNw8unL2rI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

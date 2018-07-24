@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">ERM</string>
+    <string name="loginpage">Login</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="login_btn">login</string>
+    <string name="title_activity_main_tab">MainTabActivity</string>
+    <string name="tab_text_1">ครูสอนพิเศษ</string>
+    <string name="tab_text_2">บทเรียน</string>
+    <string name="tab_text_3">ห้องเรียน</string>
+    <string name="tab_text_4">กิจกรรม</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_main2">MainActivity2</string>
+
+    <!-- RegisterActivity -->
+    <string name="text_register">register</string>
+    <string name="txt_register">register</string>
+    <string name="co">มหาวิทยาลัย</string>
+    <string name="username">username</string>
+    <string name="password_login_edr">password</string>
+
+</resources>

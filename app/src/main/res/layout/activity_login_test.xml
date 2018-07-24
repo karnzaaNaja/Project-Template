@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".edr.loginedr.LoginActivityEdr">
+
+    <include layout="@layout/toolbar_activity_edr" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="250dp">
+    </View>
+
+    <Button
+        android:id="@+id/edt_co"
+        android:text="มหาวิทยาลัย"
+        android:layout_width="match_parent"
+        android:layout_height="50dp" />
+
+    <EditText
+        android:hint="@string/username"
+        android:id="@+id/edt_username"
+        android:layout_width="match_parent"
+        android:layout_height="50dp" />
+
+    <EditText
+        android:hint="@string/password_login_edr"
+        android:id="@+id/edt_pass"
+        android:layout_width="match_parent"
+        android:layout_height="50dp" />
+
+    <Button
+        android:id="@+id/click"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:text="@string/login_btn" />
+
+
+
+
+
+
+</LinearLayout>
